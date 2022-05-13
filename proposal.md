@@ -1,5 +1,3 @@
-Hi 👋 @ShadaW11
-
 # **Title**: 3 Plugins to power up your Strapi Blog
 
 ### **Description**
